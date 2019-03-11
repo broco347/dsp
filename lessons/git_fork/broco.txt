@@ -1,3 +1,0 @@
-TEST > broco.txt
-
-echo TEST
