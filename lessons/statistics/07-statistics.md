@@ -109,7 +109,10 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> The major difference between Bayesian statistics and frequentist statistics is their respective perspectives on probability. On the one hand, Bayesian statistics views probability as deductive logic. It assumes that data are observed from the realized sample and are fixed, while parameters are unknown and can be logically determined and, subsequently, adjusted. For instance, the Bayesian school begins any given problem with a “prior distribution”, which is a probability distribution that reflects the statistician’s subjective understanding of the topic in question. Next, this “prior” is adjusted based on subsequently collected data to form a “posterior distribution.”  
+
+>> On the other hand, for the frequentist school, probability is derived from long run frequency distributions. In contrast to the Bayesian school of thought, data are a repeatable random sample, while parameters are fixed. Frequentists think of probability events as measurable, objective, and existing independently from the individual calculating it. As a result, frequentists only use conditional distributions of data given specific hypothesis.
+
 
 ---
 
