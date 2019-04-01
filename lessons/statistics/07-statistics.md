@@ -105,7 +105,6 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 
 >> Note: I placed a 1 in the denominator, because we are given that Elvis' twin is the same sex. However, in adjusting the denominator to reflect the probability of Elvis' twin being male (~ .5), I am left with:  
 >> P(Elvis is identical twin | Twin was male) =  1 * .2727 / .5 = .5454  
-
 >> This solution seems a bit high to me, though I am not sure where my caluculations may have gone wrong. 
 
 
